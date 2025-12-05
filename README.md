@@ -2,7 +2,7 @@
 If you like my work, you can support me by buying me a coffee!  
 
 <a href="https://www.buymeacoffee.com/GHcontribution" target="_blank">
-  <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=GHcontribution&button_colour=FFDD00&font_colour=000000&font_family=Arial&outline_colour=000000&coffee_colour=ffffff" alt="Buy Me A Coffee"/>
+  <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000000" alt="Buy Me A Coffee">
 </a>
 ## ☕ Support Me
 If you like my work, you can support me by buying me a coffee!  
