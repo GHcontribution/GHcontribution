@@ -10,6 +10,7 @@ If you like my work, you can support me by buying me a coffee!
 <a href="https://www.buymeacoffee.com/GHcontribution" target="_blank" style="
     display: inline-block;
     background-color: #FFDD00;
+    background:yellow;
     color: #000;
     font-weight: bold;
     padding: 10px 20px;
